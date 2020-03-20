@@ -1,0 +1,202 @@
+    1  ls
+    2  cd Desktop/
+    3  touch exercise.md
+    4  ls
+    5  rm task2.sh 
+    6  ls
+    7  cd ..
+    8  ls
+    9  cd Documents/
+   10  touch pad.md
+   11  cd 
+   12  ls
+   13  cd Desktop/
+   14  nano task5_2.sh
+   15  cd
+   16  cd Documents/
+   17  cp pad.md Deskop
+   18  ls
+   19  mv Deskop 
+   20  rm Deskop 
+   21  ls
+   22  cd
+   23  cd Desktop/
+   24  nano task5_3.sh
+   25  chomd 0700 task5_3.sh 
+   26  chmod 0700 task5_3.sh 
+   27  ./task5_3.sh 
+   28  sudo updatedb
+   29  locate umuzi
+   30  locate umuzi.md >> search_result.md
+   31  nano task4_2
+   32  touch umuzi.md recruits.md cohort.md
+   33  nano umuzi.md 
+   34  nano recruits.md 
+   35  nano cohort.md 
+   36  cat umuzi.md recruits.md cohort.md 
+   37  cat umuzi.md recruits.md cohort.md > summarry.md
+   38  echo "THE END" >> summarry.md 
+   39  cat summarry.md 
+   40  mv exercise.md /tmp
+   41  rm /tmp/exercise.md 
+   42  ls
+   43  pwd
+   44  mkdir workspace
+   45  cd workspace/
+   46  ls
+   47  touch README.md
+   48  ls
+   49  cp README.md CHANGELOG.md
+   50  ls
+   51  pwd
+   52  ls
+   53  cd Desktop/
+   54  ls
+   55  pwd
+   56  mkdir workspace
+   57  cd workspace/
+   58  ls
+   59  touch README.md
+   60  cp README.md CHANGELO.md
+   61  ls
+   62  clear
+   63  pwd
+   64  clear
+   65  touch exercise.md
+   66  mv exercise.md /tmp
+   67  rm /tmp/exercise.md 
+   68  clear
+   69  touch umuzi.md recruits.md cohort.md
+   70  nano umuzi.md 
+   71  nano recruits.md 
+   72  nano cohort.md 
+   73  nano Task3_3.sh
+   74  chmod 0070 Task3_3.sh 
+   75  ./Task3_3.sh
+   76  chmod 0700 Task3_3.sh 
+   77  ./Task3_3.sh 
+   78  nano Task3_4.sh
+   79  chmod 0700 Task3_4.sh 
+   80  ./Task3_4.sh 
+   81  nano Task3_5.sh
+   82  echo "THE END" >> summary.md 
+   83  cat summary.md 
+   84  clear
+   85  nano Task4_1.sh
+   86  chmod 0700 Task4_1.sh 
+   87  ./Task4_1.sh 
+   88  nano Task4_2.sh
+   89  chmod 0700 Task4_2.sh 
+   90  ./Task4_2.sh 
+   91  ls
+   92  clear
+   93  nano Task5_1.sh
+   94  chmod 0700 Task5_1.sh 
+   95  ./Task5_1.sh 
+   96  nano Task5_2.sh
+   97  chmod 0700 Task5_2.sh 
+   98  ./Task5_2.sh 
+   99  ls
+  100  nano Task5_3.sh
+  101  chmod 0700 Task5_3.sh 
+  102  ./Task5_3.sh 
+  103  ls
+  104  nano Task5_4.sh
+  105  chmod 0700 Task5_4.sh 
+  106  ./Task5
+  107  ./Task5_4.sh 
+  108  nano Task5_5.sh
+  109  chmod 0700 Task5_5.sh 
+  110  ./Task5_5.sh 
+  111  nano Task5_6.sh
+  112  chmod 0700 Task5_6.sh 
+  113  ./Task5_6.sh 
+  114  clear
+  115  nano Task6_1.sh
+  116  chmod 0700 Task6_1.sh 
+  117  ./Task6_1.sh 
+  118  ls
+  119  nano Task6_1.sh
+  120  chmod 0700 Task6_1.sh 
+  121  ./Task6_1.sh 
+  122  ls
+  123  nano Task6_2.sh
+  124  chmod 0700 Task6_2.sh 
+  125  ./Task6_2.sh 
+  126  pwd
+  127  ls
+  128  cd workspace/
+  129  ls
+  130  nano Task6_3.sh
+  131  chmod 0700 Task6_3.sh 
+  132  ,/Task6_3.sh
+  133  ./Task6_3.sh 
+  134  clear
+  135  nano Task7_1.sh
+  136  chmod 0700 Task7_1.sh 
+  137  ./Task7_1.sh 
+  138  nano Task7_3.sh
+  139  chmod 0700 Task7_3.sh 
+  140  ./Task7_3.sh 
+  141  ls
+  142  cd my_files/
+  143  ls
+  144  clear
+  145  cd
+  146  ls
+  147  cd workspace/
+  148  clear
+  149  sudo apt update
+  150  sudo apt upgrade
+  151  sudo apt install tree
+  152  ls
+  153  cd
+  154  cd Downloads/
+  155  ls
+  156  sudo dpkg -i code_1.43.1-1584515895_amd64.deb
+  157  cd git-basic-exercises
+  158  ls -a
+  159  git init
+  160  ls -a
+  161  git status
+  162  ls -a
+  163  git status
+  164  git log
+  165  git add .
+  166  git status
+  167  git reset
+  168  git status
+  169  git add .
+  170  git status
+  171  git config --global user.email "jbrasepae@gmail.com"
+  172  git config --global user.name "Jeanette Boitumelo"
+  173  git commit -m "initial commit"
+  174  git log
+  175  nano README.md 
+  176  cat README.md 
+  177  git status
+  178  git add .
+  179  git status
+  180  git commit -m "second commit"
+  181  nano README.md 
+  182  git status
+  183  git add .
+  184  git status
+  185  git commit -m "third commit"
+  186  git log
+  187  git checkouk 6d0160fca2ae3a66d1240d4c670d06f3f897411b
+  188  git checkout 6d0160fca2ae3a66d1240d4c670d06f3f897411b
+  189  cat README.md 
+  190  git checkout master
+  191  cat README.md 
+  192  git branch
+  193  nano milkshakes.md
+  194  git status
+  195  git add .
+  196  git status
+  197  git commit -m "added initial flavours"
+  198  git log
+  199  git checkout master
+  200  git branch
+  201  git checkout -b history
+  202  history > history.txt
